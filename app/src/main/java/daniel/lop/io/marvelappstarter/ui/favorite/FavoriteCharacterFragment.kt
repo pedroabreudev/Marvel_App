@@ -7,6 +7,7 @@ import daniel.lop.io.marvelappstarter.databinding.FragmentFavoriteCharacterBindi
 import daniel.lop.io.marvelappstarter.ui.base.BaseFragment
 
 class FavoriteCharacterFragment : BaseFragment<FragmentFavoriteCharacterBinding, FavoriteCharacterViewModel>() {
+
     override val viewModel: FavoriteCharacterViewModel by viewModels()
 
     override fun getViewBinding(
