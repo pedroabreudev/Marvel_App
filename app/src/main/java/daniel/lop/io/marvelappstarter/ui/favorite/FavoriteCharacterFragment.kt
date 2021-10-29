@@ -91,7 +91,6 @@ class FavoriteCharacterFragment :
         }
     }
 
-
     override fun getViewBinding(
         inflater: LayoutInflater,
         container: ViewGroup?
